@@ -31,7 +31,7 @@ Observe the animated clock displaying the current time.
 
 Feel free to contribute by opening issues or pull requests. <br>
 
-Do well by clicking the follow button below formore! <br>
+Do well by clicking the follow button below for more! <br>
 
 [![Follow](https://img.shields.io/github/followers/Thewealth-soft?style=social)](https://github.com/Thewealth-soft)
 

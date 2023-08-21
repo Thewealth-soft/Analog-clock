@@ -17,9 +17,9 @@ A simple clock application built using HTML, CSS, and JavaScript. The app displa
 git clone https://github.com/Thewealth-soft/Analog-clock.git
 ```
 
-Open the index.html file in a web browser.
+2. Open the index.html file in a web browser.
 
-Observe the animated clock displaying the current time.
+3. Observe the animated clock displaying the current time.
 
 ## How It Works
 

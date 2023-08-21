@@ -29,7 +29,9 @@ Observe the animated clock displaying the current time.
 
 ## Contributing
 
-Feel free to contribute by opening issues or pull requests.
-Do wel by following me for more!
+Feel free to contribute by opening issues or pull requests. <br>
+
+Do well by clicking the follow button below formore! <br>
+
 [![Follow](https://img.shields.io/github/followers/Thewealth-soft?style=social)](https://github.com/Thewealth-soft)
 
